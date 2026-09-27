@@ -1,0 +1,11 @@
+{
+  "name": "riftline-server",
+  "version": "4.0.0",
+  "description": "Riftline online server and web host — made by Mudit Pathak",
+  "author": "Mudit Pathak",
+  "license": "UNLICENSED",
+  "private": true,
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" }
+}
